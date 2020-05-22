@@ -1,0 +1,16 @@
+{
+  "name": "contractkit-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@celo/contractkit": "0.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "transfer": "node transfer.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
